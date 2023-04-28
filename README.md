@@ -24,7 +24,7 @@
 </h1>
 
 <div id="badges">
-  <img align="center" src="https://komarev.com/ghpvc/?sranjan-git&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?sranjan-git&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <div align="center">
